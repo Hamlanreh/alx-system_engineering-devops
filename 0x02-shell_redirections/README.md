@@ -1,0 +1,9 @@
+echo 
+cat
+head
+tail
+grep
+wc
+find
+cut
+passwd
